@@ -42,7 +42,7 @@ public class Dog extends Animal
 
     // implements eat()
     // fixing problem
-    @Override
+
     public void eat() {
 
         System.out.println(name + " is eating.");
